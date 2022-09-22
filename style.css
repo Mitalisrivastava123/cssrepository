@@ -163,3 +163,9 @@ background-color:green;
   margin-bottom:20px;
   margin-left:40px;
 }
+/* Use Clockwise Notation to Specify the Padding of an Element */
+.blue-box {
+  background-color: blue;
+  color: #fff;
+ padding:40px 20px 20px 40px;
+}
