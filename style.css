@@ -188,3 +188,8 @@ background-color:green;
   color: #fff;
   margin:40px 20px 20px 40px;
 }
+/* Use Attribute Selectors to Style Elements */
+[type='checkbox'] {
+  margin-top:10px;
+  margin-bottom:15px;
+ }
