@@ -1,8 +1,10 @@
 /* added selector to style element */
-h2{
-    color:blue;
+h2 {
+    color: blue;
 }
+
 /* added red-text class  */
 .red-text {
     color: red;
-  }
+}
+
