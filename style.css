@@ -63,3 +63,26 @@ h2 {
   width: 100px;
   border-radius:50%;
 }
+
+/* Attach fall back value of background */
+.penguin-top {
+  top: 10%;
+  left: 25%;  
+  background: var(--pengiun-skin,black);
+  width: 50%;
+  height: 45%;
+  border-radius: 70% 70% 60% 60%;
+}
+
+.penguin-bottom {
+  top: 40%;
+  left: 23.5%;
+
+  /* Change code below this line */
+  background: var(--pengiun-skin,black);
+  /* Change code above this line */
+
+  width: 53%;
+  height: 45%;
+  border-radius: 70% 70% 100% 100%;
+}
