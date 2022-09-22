@@ -93,3 +93,7 @@ h2 {
   padding: 20px;
   margin: -15px;
 }
+/* Override All Other Styles by using Important */
+.pink-text {
+  color:  pink !important;
+}
