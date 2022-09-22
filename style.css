@@ -140,3 +140,10 @@ h2 {
 {
   background-color:silver;
 }
+/* Adjust the Margin of an Element */
+.blue-box {
+  background-color: blue;
+  color: #fff;
+  padding: 20px;
+  margin: 20px;
+}
