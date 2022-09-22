@@ -248,3 +248,8 @@ body {
 .blue-text {
   color: blue;
 }
+/* Use Hex Code for Specific Colors */
+body {
+  background-color: #000000;
+  color:#000000;
+}
