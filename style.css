@@ -1,56 +1,59 @@
 /* added selector to style element */
 h2 {
-    color: blue;
+  color: blue;
 }
 
 /* added red-text class  */
 .red-text {
-    color: red;
+  color: red;
 }
 
 .injected-text {
-    margin-bottom: -25px;
-    text-align: center;
-  }
+  margin-bottom: -25px;
+  text-align: center;
+}
 
-  .box {
-    border-style: solid;
-    border-color: black;
-    border-width: 5px;
-    text-align: center;
-  }
+.box {
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+  text-align: center;
+}
 
-  .yellow-box {
-    background-color: yellow;
-    padding: 10px;
-  }
+.yellow-box {
+  background-color: yellow;
+  padding: 10px;
+}
 
-  .red-box {
-    background-color: crimson;
-    color: #fff;
-    padding: 20px;
-  }
+.red-box {
+  background-color: crimson;
+  color: #fff;
+  padding: 20px;
+}
 
-  .blue-box {
-    background-color: blue;
-    color: #fff;
-    padding: 20px;
-  }
+.blue-box {
+  background-color: blue;
+  color: #fff;
+  padding: 20px;
+}
 
-  .red-text {
-    color: red;
-  }
+.red-text {
+  color: red;
+}
 
-  p {
-    font-size: 16px;
-    font-family:monospace;
-  }
+p {
+  font-size: 16px;
+  font-family: monospace;
+}
 
-  p 
-  {
-     font-size:16px;
-  }
-  h2
-  {
-    font-family:Lobster;
-  }
+p {
+  font-size: 16px;
+}
+
+h2 {
+  font-family: Lobster;
+}
+
+#orange-text {
+  color: orange;
+}
