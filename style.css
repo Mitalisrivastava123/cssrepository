@@ -57,3 +57,9 @@ h2 {
 #orange-text {
   color: orange;
 }
+
+/* Added Border radius to image  */
+.smaller-image {
+  width: 100px;
+  border-radius:50%;
+}
