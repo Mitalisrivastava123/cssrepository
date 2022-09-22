@@ -486,4 +486,16 @@ body {
   --penguin-belly: white;
   --penguin-beak: orange;
 }
+/* Use a media query to change a variable */
+@media (max-width: 350px) {
+  :root {
+
+--penguin-size: 200px;
+  --penguin-skin: black;
+    /* Only change code below this line */
+
+    /* Only change code above this line */
+  }
+}
+
 
