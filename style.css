@@ -474,3 +474,10 @@ body {
   height: 200px;
   width:200px;
 }
+:root {
+  --penguin-belly:pink;
+  /* Only change code below this line */
+
+  /* Only change code above this line */
+}
+
