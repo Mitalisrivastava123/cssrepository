@@ -253,3 +253,16 @@ body {
   background-color: #000000;
   color:#000000;
 }
+/* Use Hex Code to Mix Colors */
+.red-text {
+  color: #FF0000;
+}
+.green-text {
+  color: #00FF00;
+}
+.dodger-blue-text {
+  color: #1E90FF;
+}
+.orange-text {
+  color: #FFA500;
+}
