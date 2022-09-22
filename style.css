@@ -112,3 +112,9 @@ h2 {
 {
   width:100px;
 }
+/* Add Borders Around Your Elements */
+.smaller-image {
+  width: 100px;
+  border:10px solid green;
+
+}
