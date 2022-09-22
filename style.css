@@ -213,7 +213,7 @@ body
  color:green;
   font-family:monospace;
 }
-
+/*  Prioritize One Style Over Another */
 body {
   background-color: black;
   font-family: monospace;
@@ -222,4 +222,13 @@ body {
 .pink-text
 {
   color:pink;
+}
+/* Override Styles in Subsequent CSS */
+body {
+  background-color: black;
+  font-family: monospace;
+  color: green;
+}
+.pink-text {
+  color: blue;
 }
