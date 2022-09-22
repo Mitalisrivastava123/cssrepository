@@ -292,3 +292,14 @@ body {
   --penguin-beak: orange;
   /* Only change code above this line */
 }
+/* Create a custom CSS Variable */
+.penguin {
+
+  position: relative;
+  margin: auto;
+  display: block;
+  margin-top: 5%;
+  width: 300px;
+  height: 300px;
+  --penguin-skin: gray;
+}
