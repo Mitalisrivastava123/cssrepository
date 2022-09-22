@@ -194,10 +194,15 @@ background-color:green;
   margin-bottom:15px;
  }
 
-
+/* Understand Absolute versus Relative Units */
  .red-box {
   background-color: red;
   margin: 20px 40px 20px 40px;
   padding:1.5em;
 
+}
+/* Style the HTML Body Element */
+body
+{
+  background-color:black;
 }
