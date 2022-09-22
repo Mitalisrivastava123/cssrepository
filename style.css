@@ -480,4 +480,10 @@ body {
 
   /* Only change code above this line */
 }
+/*Change a variable for a specific area  */
+:root {
+  --penguin-skin: gray;
+  --penguin-belly: white;
+  --penguin-beak: orange;
+}
 
