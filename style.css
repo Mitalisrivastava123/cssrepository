@@ -61,14 +61,14 @@ h2 {
 /* Added Border radius to image  */
 .smaller-image {
   width: 100px;
-  border-radius:50%;
+  border-radius: 50%;
 }
 
 /* Attach fall back value of background */
 .penguin-top {
   top: 10%;
-  left: 25%;  
-  background: var(--pengiun-skin,black);
+  left: 25%;
+  background: var(--pengiun-skin, black);
   width: 50%;
   height: 45%;
   border-radius: 70% 70% 60% 60%;
@@ -79,13 +79,14 @@ h2 {
   left: 23.5%;
 
   /* Change code below this line */
-  background: var(--pengiun-skin,black);
+  background: var(--pengiun-skin, black);
   /* Change code above this line */
 
   width: 53%;
   height: 45%;
   border-radius: 70% 70% 100% 100%;
 }
+
 /* Add a Negative Margin to an Element */
 .blue-box {
   background-color: blue;
@@ -93,7 +94,16 @@ h2 {
   padding: 20px;
   margin: -15px;
 }
+
 /* Override All Other Styles by using Important */
 .pink-text {
-  color:  pink !important;
+  color: pink !important;
+}
+/* Specify How Fonts Should Degrade */
+h2 {
+  /* font-family:  Lobster, monospace -->; */
+}
+
+h2 {
+  font-family: Lobster, monospace
 }
