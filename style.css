@@ -206,3 +206,10 @@ body
 {
   background-color:black;
 }
+/* Inherit Styles from the Body Element */
+
+body 
+{
+ color:green;
+  font-family:monospace;
+}
