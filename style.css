@@ -182,3 +182,9 @@ background-color:green;
 .blue-text {
   color:rgb(0, 0, 255);
 }
+/* Use Clockwise Notation to Specify the Margin of an Element */
+.blue-box {
+  background-color: blue;
+  color: #fff;
+  margin:40px 20px 20px 40px;
+}
